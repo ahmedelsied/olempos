@@ -2,7 +2,7 @@
 ## This is a website for germany company
 <strong>highlights:</strong>
   * Pure PHP
-  * Code Organised
+  * Code Organized
   * OOP Syntax
   * Based on MVC architecture design
   * High level of security
