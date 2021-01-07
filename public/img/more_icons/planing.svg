@@ -1,0 +1,42 @@
+<svg id="planing" xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480">
+  <g id="Group_12" data-name="Group 12">
+    <g id="Group_11" data-name="Group 11">
+      <path id="Path_19" data-name="Path 19" d="M424,256H328a8,8,0,0,0-8,8v16H298.16L248,251.36V224h40a8,8,0,0,0,8-8V168a8,8,0,0,0-8-8H248V128h16a32,32,0,0,0,0-64H216a32,32,0,0,0,0,64h16v32H192a8,8,0,0,0-8,8v16H160V168a8,8,0,0,0-8-8H56a8,8,0,0,0-8,8v48a8,8,0,0,0,3.6,6.64l2.8,1.92a51.915,51.915,0,0,0,28.8,8.64,51.125,51.125,0,0,0,23.12-5.44,35.923,35.923,0,0,1,16-3.76H152a8,8,0,0,0,8-8V200h24v16a8,8,0,0,0,8,8h40v27.36l-52,29.68a8,8,0,0,0,0,13.92l52,29.68V368H216a32,32,0,0,0,0,64h48a32,32,0,0,0,0-64H248V352H376a8,8,0,0,0,8-8V320h40a8,8,0,0,0,8-8V264A8,8,0,0,0,424,256ZM144,208H122.32a52.491,52.491,0,0,0-23.12,5.44A35.841,35.841,0,0,1,64,211.68V176h80Zm72-96a16,16,0,0,1,0-32h48a16,16,0,0,1,0,32Zm-16,96V176h80v32Zm64,176a16,16,0,0,1,0,32H216a16,16,0,0,1,0-32Zm-24-73.2L200,288l40-22.8L280,288ZM368,336H248V324.64L298.16,296H320v16a8,8,0,0,0,8,8h40Zm48-32H336V272h80Z" fill="#db3056"/>
+    </g>
+  </g>
+  <g id="Group_14" data-name="Group 14">
+    <g id="Group_13" data-name="Group 13">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="88" height="16" transform="translate(48 64)" fill="#db3056"/>
+    </g>
+  </g>
+  <g id="Group_16" data-name="Group 16">
+    <g id="Group_15" data-name="Group 15">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="64" height="16" transform="translate(48 96)" fill="#db3056"/>
+    </g>
+  </g>
+  <g id="Group_18" data-name="Group 18">
+    <g id="Group_17" data-name="Group 17">
+      <path id="Path_20" data-name="Path 20" d="M472,48a8,8,0,0,0,8-8V8a8,8,0,0,0-8-8H8A8,8,0,0,0,0,8V40a8,8,0,0,0,8,8h8V464H0v16H480V464H464V48ZM448,464H32V48H448ZM16,32V16H464V32Z" fill="#db3056"/>
+    </g>
+  </g>
+  <g id="Group_20" data-name="Group 20">
+    <g id="Group_19" data-name="Group 19">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="16" height="16" transform="translate(320 432)" fill="#db3056"/>
+    </g>
+  </g>
+  <g id="Group_22" data-name="Group 22">
+    <g id="Group_21" data-name="Group 21">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="16" height="16" transform="translate(352 432)" fill="#db3056"/>
+    </g>
+  </g>
+  <g id="Group_24" data-name="Group 24">
+    <g id="Group_23" data-name="Group 23">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="16" height="16" transform="translate(384 432)" fill="#db3056"/>
+    </g>
+  </g>
+  <g id="Group_26" data-name="Group 26">
+    <g id="Group_25" data-name="Group 25">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="16" height="16" transform="translate(416 432)" fill="#db3056"/>
+    </g>
+  </g>
+</svg>
